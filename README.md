@@ -206,3 +206,4 @@ ohpm install
 本项目基于 [The MIT License (MIT)](https://github.com/yrjwcharm/react-native-svgaplayer/blob/master/LICENSE) ，请自由地享受和参与开源。
 
 
+### android/ios 自动Link编译 就行
