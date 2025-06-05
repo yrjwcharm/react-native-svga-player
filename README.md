@@ -62,6 +62,8 @@ const styles = StyleSheet.create({
 
 ## Link
 
+### android/ios 自动Link编译 就行
+
 目前 HarmonyOS 暂不支持 AutoLink，所以 Link 步骤需要手动配置。
 
 **1、执行 package.json里的 codegen脚本命令 yarn codegen**
@@ -206,4 +208,3 @@ ohpm install
 本项目基于 [The MIT License (MIT)](https://github.com/yrjwcharm/react-native-svgaplayer/blob/master/LICENSE) ，请自由地享受和参与开源。
 
 
-### android/ios 自动Link编译 就行
