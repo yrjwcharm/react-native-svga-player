@@ -1,4 +1,4 @@
-## ***这是一款使用ReactNative Svga动画的播放器插件*** [Android/ios/harmony三端统一]
+## ***这是一款使用ReactNative加载Svga动画的播放器插件*** [Android/ios/harmony三端统一]
 > ### 版本：latest
 
 <p align="center">
