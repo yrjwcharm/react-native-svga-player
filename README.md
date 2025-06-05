@@ -86,8 +86,7 @@ const styles = StyleSheet.create({
   {
     ...
     "overrides": {
-      "@rnoh/react-native-openharmony": "file:../libs/react_native_openharmony_release.har",//这个你项目工程怎么引入的就怎么引入
-    
+      "@rnoh/react-native-openharmony": "file:../libs/react_native_openharmony_release.har",
     }
   }
   ```
@@ -104,7 +103,7 @@ const styles = StyleSheet.create({
 
   ```json
   "dependencies": {
-      "@rnoh/react-native-openharmony": "file:../libs/react_native_openharmony_release.har",//这个你项目工程怎么引入的就怎么引入
+      "@rnoh/react-native-openharmony": "file:../libs/react_native_openharmony_release.har",
       "@react-native-ohos/react-native-svga-player": "file:../../node_modules/react-native-ohos-svgaplayer/harmony/svgaplayer.har",
     },
   ```
@@ -125,7 +124,7 @@ const styles = StyleSheet.create({
 
   ```json
   "dependencies": {
-      "@rnoh/react-native-openharmony": "file:../libs/react_native_openharmony_release.har",//这个你项目工程怎么引入的就怎么引入
+      "@rnoh/react-native-openharmony": "file:../libs/react_native_openharmony_release.har",
       "@react-native-ohos/react-native-svga-player": "file:../svgaplayer",
 
     }
