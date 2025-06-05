@@ -64,7 +64,7 @@ const styles = StyleSheet.create({
 
 ## Link
 
-### android/ios 自动Link编译 就行
+### android/ios 自动Link编译就行 ios 需要`pod install`
 
 目前 HarmonyOS 暂不支持 AutoLink，所以 Link 步骤需要手动配置。
 
