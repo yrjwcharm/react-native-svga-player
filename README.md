@@ -1,7 +1,7 @@
 ## ***这是一款使用ReactNative加载Svga动画的播放器插件*** [Android/ios/harmony三端统一]
 > ### 版本：latest
 
->为了方便大家使用，我基于自己原先封装的RN-HarmonySvgaPlayer<https://github.com/yrjwcharm/react-native-ohos-svgaplayer>扩展了其他另外两端支持[android/ios] ，弥补了之前还需要额外安装其他两端的SvgaPlayer库的弊端，现在统一使用新库名 `@yrjwcharm/react-native-svga-player`
+>为了方便大家使用，我基于自己原先封装的RN-HarmonySvgaPlayer的插件<https://github.com/yrjwcharm/react-native-ohos-svgaplayer>扩展了其他另外两端支持[android/ios] ，弥补了之前还需要额外安装其他两端的SvgaPlayer库的弊端，现在统一使用新库名 `@yrjwcharm/react-native-svga-player`
 
 <p align="center">
   <h1 align="center"> <code>@yrjwcharm/react-native-svga-player</code> </h1>
