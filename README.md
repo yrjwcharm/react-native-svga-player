@@ -58,7 +58,7 @@ const styles = StyleSheet.create({
   },
 });
 ```
-更多详情用法参考  [三端Svga动画统一使用点击这里](https://github.com/yrjwcharm/react-native-ohos/tree/feature/rnoh/svgaplayer)
+更多详情用法参考  [三端Svga动画统一使用点击这里](https://github.com/yrjwcharm/react-native-ohos/tree/feature/react-native-svga-player)
 
 ## Link
 
@@ -194,7 +194,7 @@ ohpm install
 
 然后编译、运行即可。
 
-### 兼容三端[Android、iOS、Harmony]的 Svga动画 demo示例 ->  https://github.com/yrjwcharm/react-native-ohos/tree/feature/rnoh/svgaplayer
+### 兼容三端[Android、iOS、Harmony]的 Svga动画 demo示例 -> <https://github.com/yrjwcharm/react-native-ohos/tree/feature/react-native-svga-player>
 
 #### 开源不易，希望您可以动一动小手点点小⭐⭐
 
@@ -203,6 +203,6 @@ ohpm install
 
 ## 开源协议
 
-本项目基于 [The MIT License (MIT)](https://github.com/yrjwcharm/react-native-ohos-svgaplayer/blob/master/LICENSE) ，请自由地享受和参与开源。
+本项目基于 [The MIT License (MIT)](https://github.com/yrjwcharm/react-native-svgaplayer/blob/master/LICENSE) ，请自由地享受和参与开源。
 
 
