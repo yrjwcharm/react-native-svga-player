@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   # s.license    = { :type => "MIT", :file => "FILE_LICENSE" }
   s.authors      = { "闫瑞锋" => "xlyanrui@sina.com" }
-  s.platforms    = { :ios => "9.0" }
+  s.platforms    = { :ios => "12.0" }
   s.source       = { :git => "https://github.com/yrjwcharm/react-native-svga-player.git", :tag => "#{s.version}" }
 
   s.source_files = "ios/**/*.{h,m,swift}"
