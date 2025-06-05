@@ -45,9 +45,13 @@
     "./package.json": "./package.json"
   },
   "files": [
+    "android",
+    "ios",
     "harmony",
     "lib",
-    "src"
+    "src",
+    "SvgaPlayer.js",
+    "react-native-svga-player.podspec"
   ],
   "harmony": {
     "alias": "react-native-svga-player",
@@ -140,7 +144,7 @@
     "typecheck": "tsc"
   },
   "types": "./lib/index.d.ts",
-  "version": "1.1.0",
+  "version": "1.1.4",
   "workspaces": [
     "example"
   ]

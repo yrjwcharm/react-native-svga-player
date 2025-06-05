@@ -1,5 +1,5 @@
 ## ***这是一款使用ReactNative Svga动画的播放器插件*** [Android/ios/harmony三端统一]
-> ### 版本：v1.1.0
+> ### 版本：latest
 
 <p align="center">
   <h1 align="center"> <code>@yrjwcharm/react-native-svga-player</code> </h1>
@@ -23,19 +23,20 @@ npm install @yrjwcharm/react-native-svga-player
 #### **yarn**
 
 ```bash
-yarn add react-native-svga-player
+yarn add @yrjwcharm/react-native-svga-player
 ```
 
 <!-- tabs:end -->
 
 下面的代码展示了这个库的基本使用场景：
 
-> [!WARNING] 使用时 import 的库名不变。alias: react-native-svga-player 主要是统一 android/ios import导入
+> [!WARNING] 使用时 import RNSvgaPlayer from '@yrjwchram/react-native-svga-player'
+
 
 ```js
 import React from "react";
 import { View, Dimensions, StyleSheet } from "react-native";
-import RNSvgaPlayer from 'react-native-svga-player'
+import RNSvgaPlayer from '@yrjwcharm/react-native-svga-player'
 
 export function App() {
   return (
