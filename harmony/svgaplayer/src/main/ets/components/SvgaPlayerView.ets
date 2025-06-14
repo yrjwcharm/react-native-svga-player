@@ -6,11 +6,11 @@
  */
 
 import { RNOHContext, RNViewBase } from '@rnoh/react-native-openharmony';
-import { RNC } from "@rnoh/react-native-openharmony/generated/ts";
 import { SvgaPlayerV2, SvgaController } from '@tb-open/svga';
 import { BusinessError } from '@kit.BasicServicesKit';
 import { fileIo } from '@kit.CoreFileKit';
 import { common } from '@kit.AbilityKit';
+import { RNC } from '../generated';
 
 @Component
 export struct SvgaPlayerView {
