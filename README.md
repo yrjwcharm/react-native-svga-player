@@ -14,6 +14,8 @@
 
 > [!TIP] [Github 地址](https://github.com/yrjwcharm/react-native-svga-player)
 
+***[!TIP] 目前[android/ios]只支持就架构，后续版本会支持新架构***
+
 ## 安装与使用
 
 #### **npm**
