@@ -14,8 +14,6 @@
 
 > [!TIP] [Github 地址](https://github.com/yrjwcharm/react-native-svga-player)
 
-***[!TIP] 目前为了兼容 rnoh`0.72.5版本`三端统一使用，该库目前[android/ios]采用的是旧架构，后续会单独发布一个react-native-newarch-svgaplayer给予新架构支持***
-
 ## 安装与使用
 
 #### **npm**
