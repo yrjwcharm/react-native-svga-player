@@ -9,12 +9,12 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   react-native-svga-player
                    DESC
-  s.homepage     = "https://github.com/yrjwcharm/react-native-svga-player"
+  s.homepage     = "https://github.com/bang88/react-native-svga-player"
   s.license      = "MIT"
   # s.license    = { :type => "MIT", :file => "FILE_LICENSE" }
-  s.authors      = { "闫瑞锋" => "xlyanrui@sina.com" }
-  s.platforms    = { :ios => "12.0" }
-  s.source       = { :git => "https://github.com/yrjwcharm/react-native-svga-player.git", :tag => "#{s.version}" }
+  s.authors      = { "bang88" => "sqibang@email.com" }
+  s.platforms    = { :ios => "9.0" }
+  s.source       = { :git => "https://github.com/bang88/react-native-svga-player.git", :tag => "#{s.version}" }
 
   s.source_files = "ios/**/*.{h,m,swift}"
   s.requires_arc = true

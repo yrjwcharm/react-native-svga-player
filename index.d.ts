@@ -1,8 +1,3 @@
-declare module "react-native-ohos-svgaplayer";
-declare module '../SvgaPlayer' {
-    const SvgaPlayer: SVGAPlayer;
-    export default SvgaPlayer;
-  }
 import React from 'react';
 import { ViewProps } from 'react-native';
 interface SVGAPlayerProps extends ViewProps {
