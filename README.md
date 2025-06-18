@@ -27,6 +27,20 @@ npm install @yrjwcharm/react-native-svga-player
 yarn add @yrjwcharm/react-native-svga-player
 ```
 
+> 若想更改库的别名 react-native-svga-player来导入。你则需要把@yrjwcharm/react-native-svga-player 库修改下，重新yarn执行
+
+```diff
++  "dependencies": {
+    "@react-native-oh/react-native-harmony": "0.72.48",
+    "patch-package": "^8.0.0",
+    "postinstall-postinstall": "^2.1.0",
+    "react": "18.2.0",
+    "react-native": "0.72.5",
+-    "@yrjwcharm/react-native-svga-player":"^1.2.0"
++   "react-native-svga-player":"npm:@yrjwcharm/react-native-svga-player@1.2.0",
+    "react-native-ohos-svgaplayer": "^1.1.7"
+  },
+
 <!-- tabs:end -->
 
 下面的代码展示了这个库的基本使用场景：
@@ -34,7 +48,7 @@ yarn add @yrjwcharm/react-native-svga-player
 ```js
 import React from "react";
 import { View, Dimensions, StyleSheet } from "react-native";
-import RNSvgaPlayer from '@yrjwcharm/react-native-svga-player'
+import RNSvgaPlayer from 'react-native-svga-player'
 
 export function App() {
   return (
