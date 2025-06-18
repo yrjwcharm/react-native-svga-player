@@ -13,7 +13,7 @@
 
 > [!TIP] [Github 地址](https://github.com/yrjwcharm/react-native-svga-player)
 
->[!TIP] 注意⚠️ 本库安卓/ios尚未采用新架构Fabrci支持,如需采用新架构支持库请移步<https://github.com/yrjwcharm/react-native-newarch>
+>[!TIP] 注意⚠️ 本库安卓/ios尚未采用新架构Fabrci支持,如需采用新架构组件支持请移步<https://github.com/yrjwcharm/react-native-newarch>
 
 
 ## 安装与使用
