@@ -21,14 +21,12 @@
 
 ##### 仓库地址：
 
-**https://github.com/BANG88/react-native-svga-player**
-
-> 由于 react-native-svga-player[`android/ios`] 很久没有被维护，本项目已修复好 android/ios 相关原生布丁 patch[`react-native-svga-player+1.1.0.patch`]安装会自动应用
+**https://github.com/yrjwcharm/react-native-svga-player**
 
 ### 安装
 
 ```javascript
-yarn add react-native-svga-player
+yarn add @yrjwcharm/react-native-svga-player
 
 yarn add react-native-ohos-svgaplayer
 
