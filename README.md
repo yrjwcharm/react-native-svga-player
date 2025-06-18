@@ -11,15 +11,11 @@
 
 #### 1.react-native Svga 动画播放器 适配 Android/ios/Harmony 基于 0.72.5 版本
 
-### 点击下载观看效果
-
-<https://github.com/yrjwcharm/react-native-ohos/raw/refs/heads/feature/rnoh/svgaplayer/harmony/svgaplayer.mp4>
-
 ## react-native Harmony
 
 ##### 仓库地址：
 
-**https://gitcode.com/yrjwcharm/react-native-ohos-svgaplayer**
+**https://github.com/yrjwcharm/react-native-ohos-svgaplayer**
 
 ## react-native Android/Ios
 
@@ -131,7 +127,7 @@ const styles = StyleSheet.create({
 
 `npm run harmony`
 
-[下载观看 DEMO 效果](https://github.com/yrjwcharm/react-native-ohos/raw/refs/heads/feature/rnoh/svgaplayer/images/svga.mp4)
+[点击下载观看效果](<https://github.com/yrjwcharm/react-native-ohos/raw/refs/heads/feature/rnoh/svgaplayer/harmony/svgaplayer.mp4>)
 
 #### 播放远程动画三端是统一的
 
