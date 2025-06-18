@@ -32,7 +32,20 @@ yarn add react-native-ohos-svgaplayer
 
 ```
 
-#### 因为 react-native-ohos-svgaplayer 库有设置 Alias 别名 所以三端可以统一使用 `import RNSvgaPlayer from 'react-native-svga-player';`导入
+>为了统一使用react-native-svga-player库名导入。你需要把@yrjwcharm/react-native-svga-player改下
+
+```diff
+ "dependencies": {
+    "@react-native-oh/react-native-harmony": "0.72.48",
+    "patch-package": "^8.0.0",
+    "postinstall-postinstall": "^2.1.0",
+    "react": "18.2.0",
+    "react-native": "0.72.5",
+ -   "@yrjwcharm/react-native-svga-player":"^1.2.0",
+ +  "react-native-svga-player":"npm:@yrjwcharm/react-native-svga-player@1.2.0",
+    "react-native-ohos-svgaplayer": "^1.1.7"
+  },
+```
 
 导入
 
