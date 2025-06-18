@@ -3,7 +3,7 @@
 > ### 版本：latest
 
 <p align="center">
-  <h1 align="center"> <code>react-native-ohos-svgaplayer</code> </h1>
+  <h1 align="center"> <code>@yrjwcharm/react-native-svga-player</code> </h1>
 </p>
 <p align="center">
     <a href="https://github.com/wonday/react-native-pdf/blob/master/LICENSE">
