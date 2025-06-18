@@ -11,7 +11,7 @@
     </a>
 </p>
 
-> [!TIP] [Github 地址](https://github.com/yrjwcharm/react-native--svga-player)
+> [!TIP] [Github 地址](https://github.com/yrjwcharm/react-native-svga-player)
 
 ## 安装与使用
 
