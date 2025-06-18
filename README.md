@@ -13,8 +13,6 @@
 
 > [!TIP] [Github 地址](https://github.com/yrjwcharm/react-native-svga-player)
 
->[!TIP] 注意⚠️ 本库安卓/ios尚未采用新架构Fabrci支持,如需采用新架构组件支持请移步<https://github.com/yrjwcharm/react-native-newarch>
-
 
 ## 安装与使用
 
@@ -29,6 +27,9 @@ npm install @yrjwcharm/react-native-svga-player
 ```bash
 yarn add @yrjwcharm/react-native-svga-player
 ```
+
+>[!TIP] 注意⚠️ 本库安卓/ios尚未采用新架构Fabrci支持,如需采用新架构组件支持请移步<https://github.com/yrjwcharm/react-native-newarch>
+
 
 > 若想更改库的别名 react-native-svga-player来导入。你则需要把@yrjwcharm/react-native-svga-player 库修改下，重新yarn执行
 
