@@ -2,9 +2,6 @@
 > ### 版本：latest
 
 <p align="center">
-  <h1 align="center"> <code>@yrjwcharm/react-native-svga-player</code> </h1>
-</p>
-<p align="center">
     <a href="https://github.com/wonday/react-native-pdf/blob/master/LICENSE">
         <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License" />
     </a>
