@@ -40,9 +40,7 @@ yarn add @yrjwcharm/react-native-svga-player
 +   "react-native-svga-player":"npm:@yrjwcharm/react-native-svga-player@1.2.0",
     "react-native-ohos-svgaplayer": "^1.1.7"
   },
-
-<!-- tabs:end -->
-
+```
 下面的代码展示了这个库的基本使用场景：
 
 ```js
