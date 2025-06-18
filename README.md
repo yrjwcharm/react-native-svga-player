@@ -1,15 +1,15 @@
 ## ***这是一款使用ReactNative 加载`Android/iOS` Svga动画的播放器插件*** [三端Svga动画统一使用点击这里](https://github.com/yrjwcharm/react-native-ohos/tree/feature/rnoh/svgaplayer)
+
 > ### 版本：latest
 
 <p align="center">
-  </p><h1 align="center"> <code>react-native-ohos-svgaplayer</code> </h1>
-<p></p>
+  <h1 align="center"> <code>react-native-ohos-svgaplayer</code> </h1>
+</p>
 <p align="center">
     <a href="https://github.com/wonday/react-native-pdf/blob/master/LICENSE">
-        <img src="https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/803e677e939d4002bff67d0dc74d3c67~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgeXJqdw==:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiOTIzMjQ1NDk1OTg1NTEyIn0%3D&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1750818915&x-orig-sign=%2B0L5b9xFc%2Fd7vJubSvv61IYmYcw%3D" alt="License">
+        <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License" />
     </a>
 </p>
-
 > [!TIP] [Github 地址](https://github.com/yrjwcharm/react-native--svga-player)
 
 ## 安装与使用
